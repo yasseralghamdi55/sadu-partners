@@ -240,7 +240,11 @@ export default function Home() {
       <div className="fixed inset-x-0 top-0 z-50 border-b border-slate-200/80 bg-white/85 backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <a href="#home" className="flex items-center gap-4">
-            <img src={logo} alt="Sadu Partners Logo" className="h-14 w-auto object-contain" />
+            <img
+              src={logo}
+              alt="Sadu Partners Logo"
+              className="h-14 w-auto object-contain"
+            />
             <div>
               <div className="text-lg font-bold tracking-tight">{t.company}</div>
               <div className="text-sm text-slate-500">{t.subtitle}</div>
