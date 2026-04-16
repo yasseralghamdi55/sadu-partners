@@ -6,9 +6,9 @@ export default function Home() {
   const logo = '/logo.png';
 
   const company = {
-    whatsappNumber: '966553000556',
+    whatsappNumber: '966557230245',
     email: 'info@sadupartners.com',
-    phone: '0553000556',
+    phone: '0557230245',
     addressAr: 'الرياض، حي النخيل، شارع الملك فهد',
     addressEn: 'King Fahd Road, Al Nakheel District, Riyadh, Saudi Arabia',
   };
